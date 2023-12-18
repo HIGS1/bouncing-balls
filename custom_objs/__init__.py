@@ -1,2 +1,1 @@
-from .top_down_character import TopDownCharacterController
-from .zombie import Zombie
+from .ball_controller import BallController
