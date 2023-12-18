@@ -1,3 +1,3 @@
-# bouncing-balls
+# Bouncing Balls
 
-Tito
+Local Multiplayer Game Written in Python.
